@@ -9,10 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-z-95156315a/)
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<div style="display:flex; justify-content:center"> 
+ 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,rider,react,wasm,ts,angular,js,postgres,docker,jenkins,nginx,git,linux,postman,grafana,&perline=5)](https://skillicons.dev)
-</div>
+ 
 
 ---- 
 ![GitHub Streak](https://streak-stats.demolab.com?user=UltWolf&theme=onedark&hide_border=true)
