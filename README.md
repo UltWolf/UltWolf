@@ -1,4 +1,4 @@
-<h3 align="center">Programming is a little bit more, then hobby, and job.</h3>
+<h3 align="center"> Create smth </h3>
 
  
 
